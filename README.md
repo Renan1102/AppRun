@@ -11,8 +11,6 @@
 - Firebase
 
 ## Demonstração:
-![primeira](https://github.com/Renan1102/AppRun/assets/103040108/acfc9526-324f-4cef-92c9-fcf566dd5a21)
-
-![segunda](https://github.com/Renan1102/AppRun/assets/103040108/d675ebc6-32c1-4d13-9f69-a8770e20fe4d)
+![primeira (1)](https://github.com/Renan1102/AppRun/assets/103040108/3a50a734-0712-4eec-bf4a-76cd8b60987a)
 
 ![terceira](https://github.com/Renan1102/AppRun/assets/103040108/9bbb6178-44b7-404c-90d2-a98a590cd7f2)
